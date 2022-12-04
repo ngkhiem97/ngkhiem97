@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Khiem Nguyen
 - 👀 I’m interested in robotics, computer vision, machine learning and software
-- 🌱 I’m currently learning computer science in the Computer Science Ph.D. program at Lehigh University, Bethlehem, PA, United States 🇺🇸
+- 🌱 I’m currently learning computer science in the Computer Science Ph.D. program at Lehigh University.
 - 💞️ I’m looking to collaborate on robotic projects
 - 📫 You can reach me at the email ktn222@lehigh.edu or my LinkedIn https://www.linkedin.com/in/khiem-nguyen-vn/
 
